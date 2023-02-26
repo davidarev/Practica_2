@@ -7,6 +7,7 @@ _**NOTA IMPORTANTE**:_
   - src/components/destinos.tsx
   - src/data/info.ts
   - src/styles/style.css
+  
 - _Para correr el proyecto:_
   - `npm install`
   - `npm run dev`
